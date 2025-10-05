@@ -2,7 +2,7 @@
 
 ## Installation Guide (macOS)
 
-1. **Download the `J-POP_0.1.1_aarch64.dmg` file**
+1. **Download the `J-POP_0.1.1_aarch64.dmg` file from release **
 
 2. **Open the downloaded `J-POP_0.1.1_aarch64.dmg` and drag `J-POP.app` into the `Applications` folder**
 
