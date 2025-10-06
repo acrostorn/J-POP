@@ -1,6 +1,6 @@
  # NASA Space Apps Challenge 2025 - Submission
 
-// thumb nail image[]
+![thumbnail](https://github.com/acrostorn/J-POP/blob/main/images/Thumbnail.jpg)
 
 the submission for NASA Space Apps Challenge.
 
