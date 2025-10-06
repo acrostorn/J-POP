@@ -1,9 +1,8 @@
- # NASA Space Apps Challenge 2025 - Submission
+ # NASA Space Apps Challenge 2025 Submission [Global Nominee🎉]
+
+![status-badge](https://img.shields.io/badge/Status-GlobalNominee-blue.svg)
 
 ![thumbnail](https://github.com/acrostorn/J-POP/blob/main/images/Thumbnail.jpg)
-
-the submission for NASA Space Apps Challenge.
-
 
 # Features
 ## 1.FUTURE POPULATION FORECAST(2025-2030)
@@ -32,18 +31,24 @@ Users can ask questions via the chat displayed on the screen, and the AI will an
 **A:** There are many children under the age of 9, so it is recommended to stock sufficient pediatric medicine.  
 **AI can detect insights far faster and at lower cost than humans, often noticing points that people might easily overlook.With J-POP, the AI analyzes population increases and decreases, as well as changes in gender and age groups from 2025 to 2030.By leveraging AI, it may be possible to discover and solve challenges from entirely new perspectives.**
 
+# Data mainly used
+[WorldPop](https://www.worldpop.org/)  
+[OpenStreetMap](https://www.openstreetmap.org/)  
+[United Nations](https://population.un.org/wpp/graphs?loc=392&type=Demographic%20Profiles&category=Line%20Charts)  
 
-# Background
+# Technologies mainly used
 
+![Tauri](https://img.shields.io/badge/Tauri-blue?logo=tauri)
+![React](https://img.shields.io/badge/React-F7DF1E?logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-61DAFB?logo=JavaScript)
+![ChakraUI](https://img.shields.io/badge/ChakraUI-319795?logo=ChakraUI)
+![OpenAI API](https://img.shields.io/badge/OpenAIAPI-0081A5?logo=Openai)
 
-
-
-# Technologies
 
 
 # Requirements
 **Recommended:**
- Apple Silicon Mac, macOS Tahoe  or later
+ Apple Silicon Mac, macOS Tahoe  or later  
 **Minimum:** 
 Apple Silicon Mac, macOS Sequoia
 
