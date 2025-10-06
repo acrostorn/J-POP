@@ -9,7 +9,7 @@ the submission for NASA Space Apps Challenge.
 ## 1.FUTURE POPULATION FORECAST(2025-2030)
 Using NASA’s WorldPop data, users can view population change forecasts between 2025 and 2030.
 
-![Feature1](https://github.com/acrostorn/J-POP/blob/main/images/Feature1.jpg)
+![Feature1](https://github.com/acrostorn/J-POP/blob/main/images/Feature1.png)
 
 **By comparing the two images, it becomes clear that the number of people aged 80–84 in this region will increase between 2025 and 2030.**
 
@@ -18,7 +18,7 @@ You can visually see population change forecasts on a map, as well as through po
 ## 2. AI-POWERED ANALYSIS
 Users can ask questions via the chat displayed on the screen, and the AI will analyze the characteristics of the population in that region and provide answers.
 
-![Featrue2](https://github.com/acrostorn/J-POP/blob/main/images/Feature2.jpg)
+![Featrue2](https://github.com/acrostorn/J-POP/blob/main/images/Feature2.png)
 
 **Example Questions:**
 - Where should new hospitals be located?
